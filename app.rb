@@ -18,6 +18,8 @@ class App < Sinatra::Base
      "#{@phrase * @number}"
    end
    
+   get 
+   
    
 
 end
